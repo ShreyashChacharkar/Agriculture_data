@@ -5,3 +5,5 @@ h5py==3.9.0
 Pillow==9.5.0
 pandas==2.0.3
 numpy==1.23.5
+matplotlib
+seaborn
