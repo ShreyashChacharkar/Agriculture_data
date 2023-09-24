@@ -3,3 +3,7 @@ data
 data.h5
 *.h5
 rice_images
+*.jpg
+__pycache__
+*.zip
+*.json
