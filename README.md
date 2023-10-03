@@ -1,32 +1,72 @@
-# Agriculture_data
+# Disease Prediction of Agriculture Plants
 Disease prediction in farming is of utmost importance for several reasons, as it can have significant impacts on agricultural productivity, food security, and the economy. Here are some key reasons highlighting the importance of disease prediction in farming:
 
-* **Crop Protection**: Disease outbreaks in crops can lead to substantial yield losses. By predicting disease outbreaks, farmers can take timely preventive measures to protect their crops. This includes adjusting planting dates, implementing crop rotation, selecting disease-resistant varieties, and applying appropriate pesticides or fungicides when necessary.
+* Crop Protection
+* Reduced Chemical Usage:
+* Cost Saving 
+* promoting practices that minimize environmental impacts, conserve resources, and promote long-term food security.
+* Food Security
+* Precision Agriculture 
+* Risk Management 
+* Environmental Conservation  
+* Research and Innovation  
+* Data-Driven Agriculture
 
-* **Reduced Chemical Usage**: Accurate disease prediction can help farmers optimize the use of chemicals such as pesticides and fungicides. By targeting treatments when and where they are needed, farmers can reduce the overuse of chemicals, which can be costly, harmful to the environment, and contribute to the development of pesticide-resistant pathogens.
+# Rice Plant Disease Prediction
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-* **Cost Savings**: Early disease detection and intervention can save farmers money. Treating diseases in their early stages is often more effective and less expensive than trying to control established infections. Additionally, reducing crop losses through disease prediction can lead to higher profits for farmers.
+## Download Repository
 
-* **Sustainability**: Sustainable agriculture practices are becoming increasingly important. Disease prediction can play a vital role in sustainable farming by promoting practices that minimize environmental impacts, conserve resources, and promote long-term food security.
+```
+git clone --depth 1 https://github.com/ShreyashChacharkar/Agriculture_data.git
+```
 
-* **Food Security**: As the global population continues to grow, ensuring food security is a top priority. Disease prediction helps maintain stable crop yields and reduces the risk of food shortages due to crop diseases, contributing to global food security.
+## Change directory
 
-* **Precision Agriculture:** Disease prediction is an integral part of precision agriculture, where data-driven technologies and strategies are used to optimize farming practices. This can include the use of sensors, remote sensing, and data analytics to monitor crops and predict disease outbreaks with high accuracy.
+```
+cd agri-app
+```
 
-* **Risk Management:** Farmers face various risks, including weather-related events, market fluctuations, and diseases. Disease prediction provides valuable information for risk management and helps farmers make informed decisions about crop management, insurance, and financial planning.
+## Create virtual environment
 
-* **Environmental Conservation:** By reducing the need for excessive chemical inputs, disease prediction can contribute to the conservation of ecosystems and biodiversity. It helps mitigate the negative impacts of agricultural practices on the environment.
+```
+python -m venv .venv
+```
 
-* **Research and Innovation:** Disease prediction fosters research and innovation in agriculture. It encourages the development of new technologies, disease-resistant crop varieties, and management strategies that enhance agricultural sustainability and productivity.
+* For windows
+```
+.venv/Scripts/activate 
+```
 
-Data-Driven Agriculture: The integration of data and technology in agriculture is transforming the industry. Disease prediction relies on data analysis and modeling, driving the adoption of data-driven decision-making in farming, which can lead to more efficient and effective practices.
+* For linux
+```
+source .venv/bin/activate
+```
 
+## Install requirements
 
+```
+pip install -r requirements.txt
+```
 
+## Train
 
+```
+run streamlit app.py
 
+```
 
-
+![dashboard](images/agri-webapp.PNG)
+check avilable model by clicking at model and diseases by accesible diseases
+![result](images/result-agriapp.PNG)
+Give feedback whther image is correct or not
 
 link to the agricultural dataset
 1. https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease/code
