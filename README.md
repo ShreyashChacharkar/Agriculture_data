@@ -20,7 +20,8 @@ Disease prediction in farming is of utmost importance for several reasons, as it
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](![yo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mgmotor.co.in%2Fcontent%2Fdam%2Fmg-redesign%2Fmg-comet-ev%2Fimages%2Fcm-img-dsc-129.png&tbnid=KrlaP3QL0WLU7M&vet=12ahUKEwjv3Pnm8tmBAxV8cWwGHYLYBYcQMygAegQIARBF..i&imgrefurl=https%3A%2F%2Fwww.mgmotor.co.in%2Fvehicles%2Fcomet-ev-electric-car-in-india&docid=5qIesmYjPnShRM&w=1024&h=540&itg=1&q=mg%20comet&ved=2ahUKEwjv3Pnm8tmBAxV8cWwGHYLYBYcQMygAegQIARBF)
+)
 
 ## Download Repository
 
