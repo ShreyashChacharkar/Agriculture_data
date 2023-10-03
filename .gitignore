@@ -7,3 +7,5 @@ rice_images
 __pycache__
 *.zip
 *.json
+dataset
+agri-app/model_resnet50V2
